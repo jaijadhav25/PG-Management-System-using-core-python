@@ -1,0 +1,22 @@
+[
+    {
+        "Payment_id": 1,
+        "User_id": "jai123",
+        "Room_id": "101",
+        "Bed_id": "Bed1",
+        "Amount": "6000",
+        "Payment_date": "18-11-2025",
+        "Method": "UPI",
+        "Details": "jai@upi"
+    },
+    {
+        "Payment_id": 2,
+        "User_id": "jai123",
+        "Room_id": "101",
+        "Bed_id": "Bed1",
+        "Amount": "6000",
+        "Payment_date": "25-11-2025",
+        "Method": "UPI",
+        "Details": "jai@upi"
+    }
+]

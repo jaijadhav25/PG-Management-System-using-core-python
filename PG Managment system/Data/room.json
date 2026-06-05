@@ -1,0 +1,26 @@
+[
+    {
+        "room_id": "101",
+        "total_beds": 5,
+        "available_beds": 4,
+        "beds": {
+            "Bed1": "Occupied",
+            "Bed2": "Vacant",
+            "Bed3": "Vacant",
+            "Bed4": "Vacant",
+            "Bed5": "Vacant"
+        }
+    },
+    {
+        "room_id": "102",
+        "total_beds": 5,
+        "available_beds": 5,
+        "beds": {
+            "Bed1": "Vacant",
+            "Bed2": "Vacant",
+            "Bed3": "Vacant",
+            "Bed4": "Vacant",
+            "Bed5": "Vacant"
+        }
+    }
+]
