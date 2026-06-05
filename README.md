@@ -100,5 +100,4 @@ Create them manually before running:
 
 ## 🙋 Author
 
-**Your Name**  
-[GitHub Profile](https://github.com/your-username)
+**Jai Jadhav**
